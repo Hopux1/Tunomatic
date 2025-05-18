@@ -10,7 +10,8 @@ Este proyecto sigue una transición profesional desde la **visión funcional** h
 
 ## 🔹 1. Diagrama de Casos de Uso UML
 
-![Diagrama de Casos de Uso](imagenes/casos_de_uso.png)
+![d caso de uso](https://github.com/user-attachments/assets/f8418efb-4c72-4520-bc3e-41668b2f69b5)
+
 
 ### Descripción general
 
@@ -36,7 +37,8 @@ La claridad de los flujos asegura comprensión desde la perspectiva del usuario 
 
 ## 🔹 2. Diagrama de Clases UML con Patrones Aplicados
 
-![Diagrama de Clases](imagenes/diagrama_clases.png)
+![d clases](https://github.com/user-attachments/assets/57bafdc8-2a84-4073-babb-397ae405d5be)
+
 
 ### Patrones Aplicados
 
@@ -58,7 +60,8 @@ Cada patrón fue aplicado en respuesta a una necesidad arquitectónica real, no 
 
 ## 🔹 3. Diagrama de Implementación UML
 
-![Diagrama de Implementación](imagenes/diagrama_implementacion.png)
+![d implementacion](https://github.com/user-attachments/assets/d1020594-6f10-4fda-ae9f-45f8d0280fdb)
+
 
 ### Despliegue Físico y decisiones técnicas
 
