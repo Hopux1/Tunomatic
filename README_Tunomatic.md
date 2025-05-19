@@ -1,6 +1,6 @@
 # Sistema de Gestión de Turnos Digitales - Tunomático
 
-## ✅ Descripción General
+## ✅ Descripción General del Sistena
 
 El **Sistema Tunomático** es una solución digital orientada a la gestión de turnos médicos en centros de salud. Su propósito es optimizar la experiencia de pacientes y personal administrativo, asegurando trazabilidad, disponibilidad en tiempo real y sincronización con sistemas hospitalarios externos (ERP). El sistema incorpora control de agenda médica, emisión de confirmaciones, y una arquitectura escalable basada en patrones de diseño.
 
