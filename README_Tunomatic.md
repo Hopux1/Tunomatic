@@ -78,5 +78,3 @@ Se garantizó la separación de responsabilidades, la posibilidad de escalar com
 Este trabajo representa una aproximación profesional al modelado arquitectónico de sistemas. La transición clara desde la funcionalidad hasta la implementación permite diseñar soluciones robustas, comprensibles por múltiples perfiles (desarrolladores, operaciones, stakeholders) y fácilmente mantenibles.
 
 El uso intencional de patrones de diseño asegura un equilibrio entre flexibilidad y control, entregando una arquitectura alineada a los estándares reales de la industria.
-
----
