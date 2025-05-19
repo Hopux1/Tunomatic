@@ -1,4 +1,4 @@
-# 🏥 Sistema Tunomático — Moelado Arquitectónico Profesional
+# Sistema de Gestión de Turnos Digitales - Tunomático
 
 ## ✅ Descripción General
 
